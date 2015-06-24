@@ -4,7 +4,7 @@
     </head>
     <body>
         <?php
-            echo date("");
+            echo "Current date".date("");
         ?>
     </body>
 </html>
